@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenAuthv2", "TokenAuthv2\TokenAuthv2.csproj", "{7D8044A2-CA2B-468B-84B7-025B71E1008B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8044A2-CA2B-468B-84B7-025B71E1008B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8044A2-CA2B-468B-84B7-025B71E1008B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8044A2-CA2B-468B-84B7-025B71E1008B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8044A2-CA2B-468B-84B7-025B71E1008B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52428A93-FFB9-40C6-94FD-3FC1CC06E062}
+	EndGlobalSection
+EndGlobal
